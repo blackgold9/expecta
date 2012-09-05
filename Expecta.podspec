@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'Expecta-private'
+  s.name     = 'Expecta'
   s.version  = '0.2.1'
   s.license  = 'MIT'
   s.summary  = 'A matcher framework for Objective-C & Cocoa'
